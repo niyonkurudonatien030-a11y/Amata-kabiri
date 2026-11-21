@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="AmataShield logo">
+  <path d="M60 6 106 24v34c0 28-19 47-46 56C33 105 14 86 14 58V24z" fill="#0B5D3B"/>
+  <path d="M60 14 98 28v30c0 23-15 39-38 47C37 97 22 81 22 58V28z" fill="#3FB950" opacity=".35"/>
+  <path d="M60 30c14 18 22 29 22 41a22 22 0 0 1-44 0c0-12 8-23 22-41z" fill="#fff"/>
+  <path d="M49 73l8 8 15-17" fill="none" stroke="#F2B705" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
